@@ -23,7 +23,7 @@ e.g Organization: testenvironment-clone, e-mail: martin.liscinsky@resco.net, pas
 
 5. After a while you should be navigate back to page: Environments
 
-6. The list of connected environments should be actualized and connection with cloned organization should be added (testenvironment-clone)
+6. The list of connected environments should be actualized and connection with cloned organization should be added
 
 7. Check if cloned organization was created correctly 
 
