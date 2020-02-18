@@ -19,11 +19,15 @@ The main purpose of this button is to create a copy of your organization. You ar
 e.g Organization: testenvironment-clone, e-mail: martin.liscinsky@resco.net, passw: test
 	- Organization name: you need to define organization name as parentname-[customname]
 	- Use the checkboxes for including/not inlcluding data of entities
+	- Clone Processes - Include Organization Data -> check Processes
+	- Clone Projects - Include Organization Data -> check ???need to ask padre
 4. Click on Save & Close (top of the page)
 
 5. After a while you should be navigate back to page: Environments
 
 6. The list of connected environments should be actualized and connection with cloned organization should be added
+
+![Screenshot](migration1).png)
 
 7. Check if cloned organization was created correctly 
 
