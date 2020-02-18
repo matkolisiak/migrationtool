@@ -27,7 +27,7 @@ e.g Organization: testenvironment-clone, e-mail: martin.liscinsky@resco.net, pas
 
 6. The list of connected environments should be actualized and connection with cloned organization should be added
 
-![Screenshot](migration1).png)
+![Screenshot](migration1.png)
 
 7. Check if cloned organization was created correctly 
 
